@@ -1,0 +1,11 @@
+C:\Users\Nov_Admin\source\repos\CaclNUnit\CaclNUnit\bin\Debug\CaclNUnit.exe.config
+C:\Users\Nov_Admin\source\repos\CaclNUnit\CaclNUnit\bin\Debug\CaclNUnit.exe
+C:\Users\Nov_Admin\source\repos\CaclNUnit\CaclNUnit\bin\Debug\CaclNUnit.pdb
+C:\Users\Nov_Admin\source\repos\CaclNUnit\CaclNUnit\obj\Debug\CaclNUnit.csprojAssemblyReference.cache
+C:\Users\Nov_Admin\source\repos\CaclNUnit\CaclNUnit\obj\Debug\CaclNUnit.csproj.CoreCompileInputs.cache
+C:\Users\Nov_Admin\source\repos\CaclNUnit\CaclNUnit\obj\Debug\CaclNUnit.exe
+C:\Users\Nov_Admin\source\repos\CaclNUnit\CaclNUnit\obj\Debug\CaclNUnit.pdb
+C:\Users\Nov_Admin\source\repos\CaclNUnit\CaclNUnit\bin\Debug\Autofac.dll
+C:\Users\Nov_Admin\source\repos\CaclNUnit\CaclNUnit\bin\Debug\Autofac.pdb
+C:\Users\Nov_Admin\source\repos\CaclNUnit\CaclNUnit\bin\Debug\Autofac.xml
+C:\Users\Nov_Admin\source\repos\CaclNUnit\CaclNUnit\obj\Debug\CaclNUnit.csproj.CopyComplete
